@@ -10,5 +10,11 @@ Scraping data : I use colab to download the pdfs from the NTUA website that repo
 Cleaning data : I then convert the pdfs to text and parse the text for the chemicals present and their associated measurements to put into a dataframe.
 Location collecting : After I have the NTUA data, I get longitudes, latitudes and altitudes from Google given the town and state the water samples are from. Adding them to the dataframe.
 
+My process for choosing the right regression model were:
+
+Picking the features : I tried chemcials and geographic location seperately to test.
+Picking the model : I tried a few models and picked K-Neighbors and XGB Regressor for the final analysis.
+Ensemble : I tried to ensemble the regressors but that proved to be no luck.
+
 Caviet:
-Before presentations I had lost my Machine Learning notebook so I had to redo it. In my revision, I found better combinations to lower the RMSE. I got it to almost half my original RMSE from the presentation! 
+Before presentations I had lost my Machine Learning notebook so I had to redo it. In my revision, I found better combinations to lower the RMSE. I got it to half my original RMSE from the presentation! 
