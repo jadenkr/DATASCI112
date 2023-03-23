@@ -16,5 +16,5 @@ Picking the features : I tried chemcials and geographic location seperately to t
 Picking the model : I tried a few models and picked K-Neighbors and XGB Regressor for the final analysis.
 Ensemble : I tried to ensemble the regressors but that proved to be no luck.
 
-# Caviet:
+## Caviet:
 Before presentations I had lost my Machine Learning notebook so I had to redo it. In my revision, I found better combinations to lower the RMSE. I got it to half my original RMSE from the presentation! 
