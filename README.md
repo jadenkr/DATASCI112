@@ -1,5 +1,6 @@
 # Navajo Nation Water Quality
 Final Project Submssion
+Jaden Redhair - jadenkr@stanford.edu
 
 NTUA is a utility company on the Navajo Nation that reports water quality across the Navajo Nation in various communities. My question is how can I take that data and make predictions about the amount of Arsenic that is in the water supplies given the other elements present like Chlorine and Copper for example.
 
